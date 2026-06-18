@@ -11,7 +11,7 @@ const initialIssues = [
         description: 'Large pothole causing severe traffic jams and damage to autos. Needs immediate attention before monsoon.',
         status: 'pending',
         votes: 124,
-        image: '/pothole_india.png',
+        image: 'pothole_india.png',
         timestamp: '2 hours ago',
         voted: false
     },
@@ -23,7 +23,7 @@ const initialIssues = [
         description: 'Streetlight has been out for a week, making the crossing dangerous at night for pedestrians.',
         status: 'progress',
         votes: 89,
-        image: '/streetlight_india.png',
+        image: 'streetlight_india.png',
         timestamp: '1 day ago',
         voted: true
     },
@@ -35,7 +35,7 @@ const initialIssues = [
         description: 'Commercial garbage and debris dumped illegally right on the walking path.',
         status: 'resolved',
         votes: 212,
-        image: '/dumping_india.png',
+        image: 'dumping_india.png',
         timestamp: '3 days ago',
         voted: false
     }
